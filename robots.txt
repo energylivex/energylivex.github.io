@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://energylivex.github.io/sitemap-index.xml
